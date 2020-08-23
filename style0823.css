@@ -1,0 +1,50 @@
+/*
+html {
+    font-size: 15px;
+}
+
+@media (min-width:768px) {
+    html {
+        font-size: 20px;
+    }
+}
+*/
+.pic-block {
+    margin-left: -8.333333333%;
+}
+
+.text-block {
+    z-index: 2;
+/*    background-color: rgba(47, 160, 211, 0.55);*/
+}
+
+.big-icon {
+    width: 50px;
+    height: 50px;
+    fill:#ff0;
+}
+
+.p-100 {
+    padding: 50px;
+    border: 10px solid #000;
+}
+
+.text-b {
+    font-weight: 500;
+}
+
+.text-block1 {
+    z-index: 3;
+/*    background-color: rgba(47, 160, 211, 0.55);*/
+    background: linear-gradient(90deg, rgba(2,0,36,0.8435749299719888) 0%, rgba(9,85,121,1) 35%, rgba(6,110,168,0.958420868347339) 64%, rgba(0,212,255,1) 100%);
+    padding-bottom: 200px;
+}
+
+.pic-block1 {
+    margin-left: -8.333333333%;
+}
+
+
+
+
+
